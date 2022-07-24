@@ -1,5 +1,5 @@
-class simple {
-public static void main (strong args[]) {
-system.out.println ("welcome to cloud knowledge");
+class Simple {
+public static void main (String args[]) {
+System.out.println ("welcome to cloud knowledge");
 }
 }
