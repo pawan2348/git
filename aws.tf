@@ -16,7 +16,7 @@ resource "aws_instance" "ap" {
 ami="ami-069d9fecd19e7ed40"
 instance_type="t2.micro"
 tags={
-Name="india"
+Name="indias"
 }
 }
 
